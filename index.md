@@ -51,6 +51,7 @@ kyr040404@naver.com
   - Open Source Software
   - Data Visualization
   - Business Strategy Analytics
+ 
 ---
 
 ## 🚀 프로젝트 경험
